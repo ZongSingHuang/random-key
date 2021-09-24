@@ -8,8 +8,6 @@ https://doi.org/10.1016/j.eswa.2009.08.015
 
 https://tigerprints.clemson.edu/cgi/viewcontent.cgi?article=1690&context=all_theses
 
-RK = np.random.uniform(low=0, high=D, size=[D])
-
 ![image](https://user-images.githubusercontent.com/58209813/134627209-8cf559b7-3cfc-4bad-8462-bff9ee022744.png)
 
 
